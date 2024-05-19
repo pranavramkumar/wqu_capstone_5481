@@ -2,14 +2,15 @@
 
 
 ## Essential information
-This is the open Git repo for the WorldQuant University Capstone Final Project Submission for Group 5481 </br>
+![WQU Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/WQU_logo_color.png/440px-WQU_logo_color.png)
+> This is the open Git repo for the WorldQuant University Capstone Final Project Submission for Group 5481 </br>
 The group members included Pranav Ramkumar, Artis Jhamar Johnson and Ekoue Jean Kougnah </br>
 Pranav focussed on datasets, Artis focussed on model-selection and model training, and Kougnah focussed on literature review
 
 ## Technologies used
-GoogleSheets was used as the datasheet to assemble the feature vectors and target matrix into datasets </br>
-Python-based preprocessing tools, and data aggregators were used for curating individual vector data </br>
-Python and its libraries have been used as the tool of choice for exploratory analysis and deep learning based modeling and forecasting of carbon allowance prices. </br>
+`GoogleSheets` was used as the datasheet to assemble the feature vectors and target matrix into datasets </br>
+`Python-based` preprocessing tools, and data aggregators were used for curating individual vector data </br>
+`Python` and its libraries have been used as the tool of choice for exploratory analysis and deep learning based modeling and forecasting of carbon allowance prices. </br>
 The following libraries are required to execute the .ipynb files in this git repo: 
   * os, csv, sys, and drive from google.colab (optionally to mount google drive path)
   * numpy, pandas,datetime, math
@@ -29,15 +30,15 @@ The following libraries are required to execute the .ipynb files in this git rep
 
 ## Git repo structure
 The data folder contains:
-* raw folder > contains the datasets for RGGI, California, Korea, EU-ETS and China with headers extended feature sets; also contains an .xlsx consolidate file with links in headers to official data sources used
-* processed folder > only the target vector and feature matrix (X1-X14) selected for model-fit and forecasting
-* pre-processing > contains pre-processing done before assembling vectors into dataset in .xlsx format (which includes linear-model estimations)
+* `raw` folder > contains the datasets for RGGI, California, Korea, EU-ETS and China with headers extended feature sets; also contains an .xlsx consolidate file with links in headers to official data sources used
+* `processed` folder > only the target vector and feature matrix (X1-X14) selected for model-fit and forecasting
+* `pre-processing` folder > contains pre-processing done before assembling vectors into dataset in .xlsx format (which includes linear-model estimations)
   
 The git repo contains:
 * Accompanying paper in .pdf format
-* ExploratoryAnalysis.ipynb which encompasses all exploratory inquiries asked of carbon allowances prices as an asset class
-* Diagnostics.ipynb which contains stationarity, collinearity and trend analysis of individual vectors within each dataset
-* Forecasting.ipynb which contains model definitions, model-fit, hyperparameter optimization and loss-function reporting for all models
+* `ExploratoryAnalysis.ipynb` which encompasses all exploratory inquiries asked of carbon allowances prices as an asset class
+* `Diagnostics.ipynb` which contains stationarity, collinearity and trend analysis of individual vectors within each dataset
+* `Forecasting.ipynb` which contains model definitions, model-fit, hyperparameter optimization and loss-function reporting for all models
 
 ## Project Information
 Here is some outlining information about the project:
@@ -47,12 +48,12 @@ Here is some outlining information about the project:
   * **Lessons learnt**: asdas
 
 ## Project Scope
-\underline In scope: \underline
+*In scope:*
 1. What does it mean to be a full-stack web developer?
 2. What is the relationship between HTML and CSS?
 3. What is
 
-\underline Out of scope: \underline
+*Out of scope:*
 1. What does it mean to be a full-stack web developer?
 2. What is the relationship between HTML and CSS?
 3. What i
