@@ -2,7 +2,7 @@
 
 
 ## Essential information
-This is the open Git repo for the WorldQuant University Capstone Final Project Submission for Group 5481
+This is the open Git repo for the WorldQuant University Capstone Final Project Submission for Group 5481 </br>
 The group members included Pranav Ramkumar, Artis Jhamar Johnson and Ekoue Jean Kougnah
 
 ## Technologies used
