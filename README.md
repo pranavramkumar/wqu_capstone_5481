@@ -89,11 +89,8 @@ Here is some outlining information about the project:
 5. Discussions </br>
    5.1 Environmental ETF Design </br>
    5.2 Environmental ETF Construction </br>
-   5.3 Vintage </br>
-   5.4 Localized Effects </br>
-   5.5 Climate Scenarios </br>
-   5.6 Market Structure Changes and Long Term Forecasts </br>
-   5.7 Constrained Optimization </br>
+   5.3 Climate Scenarios </br>
+   5.4 Long Term Forecasts </br>
 6. Conclusions </br>
 A. Appendix A: Literature Review - Emissions Trading Systems </br>
 B. Appendix B: Literature Review - Carbon Price Forecasting </br>
