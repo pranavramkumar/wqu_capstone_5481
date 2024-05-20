@@ -103,9 +103,9 @@ Acknowledgements </br>
 
 ## Links to some useful prior carbon price forecasting literature
 * [Lu, Ma and Azimi (2020) "Carbon trading volume and price forecasting in China using multiple machine learning models"](https://www.researchgate.net/publication/337331915_Carbon_trading_volume_and_price_forecasting_in_China_using_multiple_machine_learning_models)
-* [Yang et al (2021) "An Ensemble Prediction System Based on Artificial Neural Networks and Deep Learning Methods for Deterministic and Probabilistic Carbon Price Forecasting"]([https://en.wikipedia.org/wiki/Version_control](https://www.researcher-app.com/paper/8762007)
+* [Yang et al (2021) "An Ensemble Prediction System Based on Artificial Neural Networks and Deep Learning Methods for Deterministic and Probabilistic Carbon Price Forecasting"](https://www.researcher-app.com/paper/8762007)
 * [Yun et al (2022) "Forecasting carbon dioxide emission price using a novel mode decomposition machine learning hybrid model of CEEMDAN-LSTM"](https://onlinelibrary.wiley.com/doi/10.1002/ese3.1304)
-* [Tan et al (2022) "Forecasting European carbon returns using dimension reduction techniques: Commodity versus financial fundamentals"]([https://git-scm.com/book/en/v2](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001163?via%3Dihub))
+* [Tan et al (2022) "Forecasting European carbon returns using dimension reduction techniques: Commodity versus financial fundamentals"](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001163?via%3Dihub)
 * [Shahzad et al (2023) "Forecasting carbon emissions future prices using the machine learning methods"](https://link.springer.com/article/10.1007/s10479-023-05188-7)
 * [Zhang et al (2023) "Carbon trading and COVID-19: a hybrid machine learning approach for international carbon price forecasting"](https://link.springer.com/article/10.1007/s10479-023-05327-0)
 * [Feng et al (2023) "Carbon price prediction based on decomposition technique and extreme gradient boosting optimized by the grey wolf optimizer algorithm"](https://www.nature.com/articles/s41598-023-45524-2)
