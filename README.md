@@ -43,11 +43,11 @@ The git repo contains:
 ## Project Information
 Here is some outlining information about the project:
   * **Motivation**: The motivation for this research is to bring financial engineering skillsets to the field of carbon pricing </br></br>
-  * **Goals**: The goal is to demonstrate how carbon allowance prices may be forecasted using some popular machine learning models with the view to construct portfolios of allowances using spot or futures instruments to securitize an ETF for institutional investors
+  * **Goals**: The goal is to demonstrate how carbon allowance prices may be forecasted using some popular machine learning models with the view to construct portfolios of allowances using spot or futures instruments to securitize an ETF for institutional investors </br></br>
   * **Unique contributions to literature**:
     * Prior literature hasn't covered multiple ETSs across countries to take comparative views
     * Prior literature hasn't applied transformer models to the domain of carbon price forecasting
-    * here have been very few papers which have disussed or demonstrated an investment portfolio approach using carbon price forecasts
+    * There have been very few papers which have disussed or demonstrated an investment portfolio approach using carbon price forecasts </br></br>
   * **Lessons learnt**:
      * Complexity is high and it's better to split up portfolio construction and back-testing into a different paper
      * Extra attention to feature selection, cross-validation routines and model tuning can likely improve model performance
